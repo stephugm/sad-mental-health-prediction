@@ -1,0 +1,481 @@
+﻿Variable name,Question number,Description/ Questions,Codes
+pin,-,Anonymous participant identity number,(numerical)
+lang,UserLanguage,User Language,"EN-Bru = English Brunei
+EN-Phil = English Philippines
+EN-Sing = English Singapore
+ID = Indonesian
+JAP = Japanese
+MAL = Malaysian
+TH = Thai
+VT = Vietnamese"
+gpaq1,Q7,"In the past week, on how many days have you done a total of 30 minutes or more of physical activity, which was enough to raise your breathing rate. This may include sport, exercise, and brisk walking or cycling for recreation or to get to and from places, but should not include housework or physical activity that may be part of your studying","0	   None 
+1	   1 day  
+2	   2 days  
+3	   3 days  
+4	   4 days  
+5	   5 days  
+6	   6 days 
+7	   7 days"
+gpaq2,Q8,"In the past week, on how many days did you watch television, play electronic games, or use the computer/mobile phone/tablet (other than for homework/study) for a combined total of less than 2 hours per day","0	   None 
+1	   1 day  
+2	   2 days  
+3	   3 days  
+4	   4 days  
+5	   5 days  
+6	   6 days 
+7	   7 days"
+P1,Q9,"SECTION 1.2: ACTIVITY
+AT YOUR INSTITUTION
+Does your course involve vigorous-intensity activity that causes large increases in breathing or heart rate like carrying or lifting heavy loads for at least 10 minutes continuously?","o	Yes  (1) 
+o	No  (2) "
+P2,Q10,"In a typical week, on how many days do you do vigorous-intensity activities as part of your course/study?","0	   None 
+1	   1 day  
+2	   2 days  
+3	   3 days  
+4	   4 days  
+5	   5 days  
+6	   6 days 
+7	   7 days"
+P3a,Q11#1_1,  - Hours - How much time do you spend doing vigorous-intensity activities at university on a typical day?,hours (numerical) 
+P3bb,,,converted from hours to minutes
+P3b,Q11#2_1,  - Minutes - How much time do you spend doing vigorous-intensity activities at university on a typical day?,minutes (numerical)
+P4,Q12,Does your course involve moderate-intensity activity that causes small increases in breathing or heart rate like brisk walking or carrying light loads for at least 10 minutes continuously?,"o	Yes  (1) 
+o	No  (2) "
+P5,Q13,"In a typical week, on how many days do you do moderate-intensity activities as part of your course/study?","0	   None 
+1	   1 day  
+2	   2 days  
+3	   3 days  
+4	   4 days  
+5	   5 days  
+6	   6 days 
+7	   7 days"
+P6a,Q14#1_1,   - Hours - How much time do you spend doing moderate-intensity activities at university on a typical day?,hours (numerical) 
+P6bb,,,converted from hours to minutes
+P6b,Q14#2_1,   - Minutes - How much time do you spend doing moderate-intensity activities at university on a typical day?,minutes (numerical)
+P7,Q16,Do you walk or use a bicycle (pedal cycle) for at least 10 minutes continuously to get to and from places?,"o	Yes  (1) 
+o	No  (2) "
+P8,Q17,"In a typical week, on how many days do you walk or bicycle for at least 10 minutes continuously to get to and from places?","0	   None 
+1	   1 day  
+2	   2 days  
+3	   3 days  
+4	   4 days  
+5	   5 days  
+6	   6 days 
+7	   7 days"
+P9a,Q18#1_1,   - Hours - How much time do you spend walking or bicycling for travel on a typical day?,hours (numerical) 
+P9bb,,,converted from hours to minutes
+P9b,Q18#2_1,   - Minutes - How much time do you spend walking or bicycling for travel on a typical day?,minutes (numerical)
+P10,Q20,"Do you do any vigorous-intensity sports, fitness or recreational activities that causes large increases in breathing or heart rate like running or playing football for at least 10 minutes continuously?","o	Yes  (1) 
+o	No  (2) "
+P11,Q89,"In a typical week, on how many days do you do vigorous-intensity sports, fitness or recreational activities?","0	   None 
+1	   1 day  
+2	   2 days  
+3	   3 days  
+4	   4 days  
+5	   5 days  
+6	   6 days 
+7	   7 days"
+P12a,Q22#1_1,"   - Hours - How much time do you spend doing vigorous-intensity sports, fitness or recreational activities on a typical day?",hours (numerical) 
+P12bb,,,converted from hours to minutes
+P12b,Q22#2_1,"   - Minutes - How much time do you spend doing vigorous-intensity sports, fitness or recreational activities on a typical day?",minutes (numerical)
+P13,Q23,"Do you do any moderate-intensity sports, fitness or recreational (leisure) activities that causes small increases in breathing or heart rate like brisk walking, cycling or swimming for at least 10 minutes continuously?","o	Yes  (1) 
+o	No  (2) "
+P14,Q24,"In a typical week, on how many days do you do moderate-intensity sports, fitness or
+recreational activities?","0	   None 
+1	   1 day  
+2	   2 days  
+3	   3 days  
+4	   4 days  
+5	   5 days  
+6	   6 days 
+7	   7 days"
+P15a,Q25#1_1,"   - Hours - How much time do you spend doing moderate-intensity sports, fitness or recreational (leisure) activities on a typical day",hours (numerical) 
+P15bb,,,converted from hours to minutes
+P15b,Q25#2_1,"   - Minutes - How much time do you spend doing moderate-intensity sports, fitness or recreational (leisure) activities on a typical day",minutes (numerical)
+run_jog,Q26#1_1,"The following questions asks about the types of activities, the number of days each week and the... - Did you do this activity over the past 7 days - Run/jogging","Yes (1)	
+No (0)"
+cycle,Q26#1_2,"The following questions asks about the types of activities, the number of days each week and the... - Did you do this activity over the past 7 days - Cycling",
+aerodance,Q26#1_3,"The following questions asks about the types of activities, the number of days each week and the... - Did you do this activity over the past 7 days - Aerobic incl. dancing",
+ballgame,Q26#1_4,"The following questions asks about the types of activities, the number of days each week and the... - Did you do this activity over the past 7 days - Ball sports e.g. soccer, basketball, and rattan ball",
+racquet,Q26#1_5,"The following questions asks about the types of activities, the number of days each week and the... - Did you do this activity over the past 7 days - Racquet sports e.g. tennis, baseball, table tennis, golf, softball and hockey",
+athletics,Q26#1_6,"The following questions asks about the types of activities, the number of days each week and the... - Did you do this activity over the past 7 days - Athletics e.g. racing, broad jump, and discus throwing",
+watersport,Q26#1_7,"The following questions asks about the types of activities, the number of days each week and the... - Did you do this activity over the past 7 days - Water sports (in pool or natural resources) e.g. swimming, water polo and sailing",
+fightsport,Q26#1_8,"The following questions asks about the types of activities, the number of days each week and the... - Did you do this activity over the past 7 days - Fighting sports e.g. taekwondo, fencing, boxing",
+sport_total,,Total number of sport activities per week,(numerical)
+sport_cat,,Total number of sport activities per week by category,"0 (0)
+1 to 3 (1)
+4 to 6 (2)
+More than 6 (3)"
+run_jog_wkdy,Q93#1_1,For each activity complete the days and time when you participated. - How many times on Monday - Friday - Run/jogging,"0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13"
+cycle_wkdy,Q93#1_2,For each activity complete the days and time when you participated. - How many times on Monday - Friday - Cycling,
+aerodance_wkdy,Q93#1_3,For each activity complete the days and time when you participated. - How many times on Monday - Friday - Aerobic incl. dancing,
+ballgame_wkdy,Q93#1_4,"For each activity complete the days and time when you participated. - How many times on Monday - Friday - Ball sports e.g. soccer, basketball, and rattan ball",
+racquet_wkdy,Q93#1_5,"For each activity complete the days and time when you participated. - How many times on Monday - Friday - Racquet sports e.g. tennis, baseball, table tennis, golf, softball and hockey",
+athletics_wkdy,Q93#1_6,"For each activity complete the days and time when you participated. - How many times on Monday - Friday - Athletics e.g. racing, broad jump, and discus throwing",
+watersport_wkdy,Q93#1_7,"For each activity complete the days and time when you participated. - How many times on Monday - Friday - Water sports (in pool or natural resources) e.g. swimming, water polo and sailing",
+fightsport_wkdy,Q93#1_8,"For each activity complete the days and time when you participated. - How many times on Monday - Friday - Fighting sports e.g. taekwondo, fencing, boxing",
+run_jog_wkdy_t,Q93#2_1,For each activity complete the days and time when you participated. - How long did you do it in total? - Run/jogging,"<30 (1)
+30 to 60 (3)
+60 to 90 (5)
+>90 (7)"
+cycle_wkdy_t,Q93#2_2,For each activity complete the days and time when you participated. - How long did you do it in total? - Cycling,
+aerodance_wkdy_t,Q93#2_3,For each activity complete the days and time when you participated. - How long did you do it in total? - Aerobic incl. dancing,
+ballgame_wkdy_t,Q93#2_4,"For each activity complete the days and time when you participated. - How long did you do it in total? - Ball sports e.g. soccer, basketball, and rattan ball",
+racquet_wkdy_t,Q93#2_5,"For each activity complete the days and time when you participated. - How long did you do it in total? - Racquet sports e.g. tennis, baseball, table tennis, golf, softball and hockey",
+athletics_wkdy_t,Q93#2_6,"For each activity complete the days and time when you participated. - How long did you do it in total? - Athletics e.g. racing, broad jump, and discus throwing",
+watersport_wkdy_t,Q93#2_7,"For each activity complete the days and time when you participated. - How long did you do it in total? - Water sports (in pool or natural resources) e.g. swimming, water polo and sailing",
+fightsport_wkdy_t,Q93#2_8,"For each activity complete the days and time when you participated. - How long did you do it in total? - Fighting sports e.g. taekwondo, fencing, boxing",
+run_jog_wkend,Q93#3_1,For each activity complete the days and time when you participated. - How many times on Saturday-Sunday - Run/jogging,
+cycle_wkend,Q93#3_2,For each activity complete the days and time when you participated. - How many times on Saturday-Sunday - Cycling,
+aerodance_wkend,Q93#3_3,For each activity complete the days and time when you participated. - How many times on Saturday-Sunday - Aerobic incl. dancing,
+ballgame_wkend,Q93#3_4,"For each activity complete the days and time when you participated. - How many times on Saturday-Sunday - Ball sports e.g. soccer, basketball, and rattan ball",
+racquet_wkend,Q93#3_5,"For each activity complete the days and time when you participated. - How many times on Saturday-Sunday - Racquet sports e.g. tennis, baseball, table tennis, golf, softball and hockey",
+athletics_wkend,Q93#3_6,"For each activity complete the days and time when you participated. - How many times on Saturday-Sunday - Athletics e.g. racing, broad jump, and discus throwing",
+watersport_wkend,Q93#3_7,"For each activity complete the days and time when you participated. - How many times on Saturday-Sunday - Water sports (in pool or natural resources) e.g. swimming, water polo and sailing",
+fightsport_wkend,Q93#3_8,"For each activity complete the days and time when you participated. - How many times on Saturday-Sunday - Fighting sports e.g. taekwondo, fencing, boxing",
+run_jog_wkend_t,Q93#4_1,For each activity complete the days and time when you participated. - How long did you do it in total? - Run/jogging,
+cycle_wkend_t,Q93#4_2,For each activity complete the days and time when you participated. - How long did you do it in total? - Cycling,
+aerodance_wkend_t,Q93#4_3,For each activity complete the days and time when you participated. - How long did you do it in total? - Aerobic incl. dancing,
+ballgame_wkend_t,Q93#4_4,"For each activity complete the days and time when you participated. - How long did you do it in total? - Ball sports e.g. soccer, basketball, and rattan ball",
+racquet_wkend_t,Q93#4_5,"For each activity complete the days and time when you participated. - How long did you do it in total? - Racquet sports e.g. tennis, baseball, table tennis, golf, softball and hockey",
+athletics_wkend_t,Q93#4_6,"For each activity complete the days and time when you participated. - How long did you do it in total? - Athletics e.g. racing, broad jump, and discus throwing",
+watersport_wkend_t,Q93#4_7,"For each activity complete the days and time when you participated. - How long did you do it in total? - Water sports (in pool or natural resources) e.g. swimming, water polo and sailing",
+fightsport_wkend_t,Q93#4_8,"For each activity complete the days and time when you participated. - How long did you do it in total? - Fighting sports e.g. taekwondo, fencing, boxing",
+gpaq_sedent_h,Q27#1_1,"SECTION 1.4: SEDENTARY BEHAVIOUR (example sitting with friends, travelling in a car, watching tel... - Hours - How much time do you usually spend sitting or reclining on a typical day?",hours (numerical) 
+gpaq_sedent_h_cat,,sendentary time in hours by category,"≤ 3 hours (1)
+4 to 8 hours (2)
+> 8 hours (3)"
+gpaq_sedent_m,,,converted from hours to minutes
+gpaq_sedent_m,Q27#2_1,"SECTION 1.4: SEDENTARY BEHAVIOUR (example sitting with friends, travelling in a car, watching tel... - Minutes - How much time do you usually spend sitting or reclining on a typical day?",minutes (numerical)
+gpaq_bed_h,Q28#1_1,SECTION 1.5: SLEEP TIME - Hours - When do you usually go to bed in a typical week?,hours (12-hour format)
+gpaq_wake_h,Q28#1_2,SECTION 1.5: SLEEP TIME - Hours - When do you usually wake up in a typical week?,hours (12-hour format)
+gpaq_bed_m,Q28#2_1,SECTION 1.5: SLEEP TIME - Minutes - When do you usually go to bed in a typical week?,minutes (numerical)
+gpaq_wake_m,Q28#2_2,SECTION 1.5: SLEEP TIME - Minutes - When do you usually wake up in a typical week?,minutes (numerical)
+hrs_slept,,Total number of hours slept,(numerical)
+hrs_slept_cat,,Category of hours slept,"≤ 7 hours (1)
+> 7 hours (2)"
+panes1,Q29,"SECTION 2: YOUR ENVIRONMENT
+
+This section asks about your perception concerning the environment surrounding you. 
+
+In general, would you say that the people in your university are","Very physically active  (1) 
+Somewhat physically active  (2) 
+Not very physically active  (3) 
+Not at all physically active  (4) 
+Don’t know/Not sure  (5) "
+panes2,Q30,"Overall, how
+would you rate your university","Very pleasant  (1) 
+Somewhat pleasant  (2) 
+Not very pleasant  (3) 
+Not at all pleasant  (4) 
+Don’t know/Not sure  (5) "
+panes3,Q31,"For walking at night, would you describe the street lighting in your  university as","Very good  (1) 
+Good  (2) 
+Fair  (3) 
+Poor  (4) 
+Very poor  (5) 
+Don’t know/Not sure  (6) "
+panes4,Q32,How safe from crime do you consider your university to be? Would you say,"Extremely safe  (1) 
+Quite safe  (2) 
+Slightly safe  (3) 
+Not at all safe  (4) 
+Don’t know/Not sure  (5) "
+panes5,Q33,"Generally
+speaking, would you say most people in your university can be trusted?","Yes  (1) 
+No  (2) 
+Don’t know/Not sure  (3) "
+panes6,Q34,"Does your
+university have any sidewalks and/or bike lanes?","Yes  (1) 
+No  (2) 
+Don’t know/Not sure  (3) "
+panes7,Q35,"Does your
+university have any bike racks or sheltered bike parking?","Yes  (1) 
+No  (2) 
+Don’t know/Not sure  (3) "
+panes8,Q36,"Do you use any private
+or membership-only recreation facilities in your university for physical
+activity?","Yes  (1) 
+No  (2) 
+My university does not have these facilities  (3) 
+Don’t know/Not sure  (4) "
+panes9,Q37,"Do you use
+walking trails, parks, playgrounds, sport fields in your university for
+physical activity?","Yes  (1) 
+No  (2) 
+My university does not have these facilities  (3) 
+Don’t know/Not sure  (4) "
+panes10,Q38,"Do you use minimarts
+in your university for physical activity and/or walking programs?","Yes  (1) 
+No  (2) 
+My university does not have any minimarts  (3) 
+Don’t know/Not sure  (4) "
+hrb_smoke,Q39,"SECTION 3: HEALTH-RELATED BEHAVIOURS
+
+The following questions ask about your behaviours.
+
+Which of the following best describes your cigarette smoking status?","I smoke daily  (1) 
+I smoke occasionally  (2) 
+I don't smoke now, but I used to  (3) 
+I've tried smoking a few times, but never smoked regularly  (4) 
+I've never smoked  (5) "
+hrb_alcohol1,Q40,"On
+how many days of a week do you usually drink alcohol?","None/ I don't drink alcohol  (0) 
+1 day  (1) 
+2 days  (2) 
+3 days  (3) 
+4 days  (4) 
+5 days  (5) 
+6 days  (6) 
+7 days  (7)  "
+hrb_alcohol2,Q41,"On a day when you drink alcohol, how many standard drinks do you usually have? (a standard drink is equivalent to a midi of beer, a glass of wine or a nip of spirits).","1  (1) 
+2  (2) 
+3  (3) 
+4  (4) 
+5  (5) 
+6  (6) 
+7  (7) 
+8  (8) 
+9  (9) 
+10  (10) 
+11 or more  (11) "
+hrb_diet1,Q42,How many serves of fruit do you usually eat each day? (a serve of fruit is equal to one medium piece of fruit or one cup of diced fruit).,"1  (1) 
+2  (2) 
+3  (3) 
+4  (4) 
+5  (5) 
+6  (6) 
+7  (7) 
+8 or more  (8) "
+hrb_diet2,Q43,How many serves of vegetables do you usually eat each day? (a serve of vegetables is equal to half a cup of cooked vegetables or 1 cup of salad).,"1  (1) 
+2  (2) 
+3  (3) 
+4  (4) 
+5  (5) 
+6  (6) 
+7  (7) 
+8 or more  (8) "
+hrb_diet3,Q44,"On
+how many days in the last week did you eat meals or snacks such as
+burgers, pizza, fried chicken or chips from places like McDonalds, Hungry
+Jacks, Pizza Hut or Red Rooster?","None  (1) 
+1 day  (2) 
+2 days  (3) 
+3 days  (4) 
+4 days  (5) 
+5 days  (6) 
+6 days  (7) 
+7 days  (8) "
+hrb_diet4,Q45,How many teaspoons of salt or a salty sauce such as soy sauce do you add to your food right before you eat it or as you are eating it?,"Less than 1 teaspoon  (6) 
+1  (1) 
+2  (2) 
+3  (3) 
+More than 3  (4) 
+Do not eat  (5) "
+hrb_diet5,Q46,"How many days per week do you usually drink non-alcoholic sugar-sweetened beverages (such as soda, fruit flavored drink, sweetened milk (with added sugar)?","None/ Do not drink  (1) 
+1 day  (2) 
+2 days  (3) 
+3 days  (4) 
+4 days  (5) 
+5 days  (6) 
+6 days  (7) 
+7 days  (8) "
+wemwbs1,Q47_1,"SECTION 4: YOUR MENTAL WELLBEING AND ATTITUDE TOWARD PHYSICAL ACTIVITY
+
+Below are some statements about feelings and thoughts.
+
+Please choose the option that best describes your experience of each over the last 2 weeks. - I’ve been feeling optimistic about the future.","None of the time (1)	
+Rarely (2)	
+Some of the time (3)	
+Often (4)	
+All of the time (5)"
+wemwbs2,Q47_2,"SECTION 4: YOUR MENTAL WELLBEING AND ATTITUDE TOWARD PHYSICAL ACTIVITY
+
+ 
+
+Below are some statements about feelings and thoughts.
+
+ 
+
+Please choose the option that best describes your experience of each over the last 2 weeks. - I’ve been feeling useful.",
+wemwbs3,Q47_3,"SECTION 4: YOUR MENTAL WELLBEING AND ATTITUDE TOWARD PHYSICAL ACTIVITY
+
+ 
+
+Below are some statements about feelings and thoughts.
+
+ 
+
+Please choose the option that best describes your experience of each over the last 2 weeks. - I’ve been feeling relaxed.",
+wemwbs4,Q47_4,"SECTION 4: YOUR MENTAL WELLBEING AND ATTITUDE TOWARD PHYSICAL ACTIVITY
+
+ 
+
+Below are some statements about feelings and thoughts.
+
+ 
+
+Please choose the option that best describes your experience of each over the last 2 weeks. - I’ve been dealing with problems well.",
+wemwbs5,Q47_5,"SECTION 4: YOUR MENTAL WELLBEING AND ATTITUDE TOWARD PHYSICAL ACTIVITY
+
+ 
+
+Below are some statements about feelings and thoughts.
+
+ 
+
+Please choose the option that best describes your experience of each over the last 2 weeks. - I’ve been thinking clearly.",
+wemwbs6,Q47_6,"SECTION 4: YOUR MENTAL WELLBEING AND ATTITUDE TOWARD PHYSICAL ACTIVITY
+
+ 
+
+Below are some statements about feelings and thoughts.
+
+ 
+
+Please choose the option that best describes your experience of each over the last 2 weeks. - I’ve been feeling close to other people.",
+wemwbs7,Q47_7,"SECTION 4: YOUR MENTAL WELLBEING AND ATTITUDE TOWARD PHYSICAL ACTIVITY
+
+ 
+
+Below are some statements about feelings and thoughts.
+
+ 
+
+Please choose the option that best describes your experience of each over the last 2 weeks. - I’ve been able to make up my own mind about things.",
+att1,Q48_1,How much do you agree with the following statements? - Physical activity is of major important to my life.,"Strongly disagree (1)	
+Disagree (2)	
+Neither agree nor disagree (3)	
+Agree (4)	
+Strongly agree (5)"
+att2,Q48_2,How much do you agree with the following statements? - There are a lot of things more important in my life than one’s level of physical fitness.,
+att3,Q48_3,How much do you agree with the following statements? - Maintaining good physical condition takes more efforts than it is worth.,
+att4,Q48_4,How much do you agree with the following statements? - I enjoy the physical feeling one gets after strenuous exercise.,
+att5,Q48_5,How much do you agree with the following statements? - It is important to me to be strong and physically fit.,
+s_family1,Q49#1_1,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Family - Exercised with me.","None (1)	
+Rarely (2)	
+A few times (3)	
+Often (4)	
+Very often (5)	
+Does not apply (6)"
+s_family2,Q49#1_2,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Family - Gave me encouragement to stick with my exercise program.",
+s_family3,Q49#1_3,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Family - Changed their schedule so we could exercise together.",
+s_family4,Q49#1_4,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Family - Offered to exercise with me.",
+s_family5,Q49#1_5,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Family - Gave me helpful reminders to exercise (“Are you going to exercise tonight?”).",
+s_family6,Q49#1_6,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Family - Planned for exercise on recreational outings.",
+s_family7,Q49#1_7,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Family - Discussed exercise with me.",
+s_family8,Q49#1_8,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Family - Talked about how much they like to exercise.",
+s_family9,Q49#1_9,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Family - Helped plan activities around my exercise.",
+s_family10,Q49#1_10,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Family - Asked me for ideas on how they can get more exercise.",
+s_family11,Q49#1_11,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Family - Took over chores so I had more time to exercise.",
+s_family12,Q49#1_12,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Family - Made positive comments about my physical appearance.",
+s_friend1,Q49#2_1,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Friends - Exercised with me.","None (1)	
+Rarely (2)	
+A few times (3)	
+Often (4)	
+Very often (5)	
+Does not apply (6)"
+s_friend2,Q49#2_2,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Friends - Gave me encouragement to stick with my exercise program.",
+s_friend3,Q49#2_3,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Friends - Changed their schedule so we could exercise together.",
+s_friend4,Q49#2_4,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Friends - Offered to exercise with me.",
+s_friend5,Q49#2_5,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Friends - Gave me helpful reminders to exercise (“Are you going to exercise tonight?”).",
+s_friend6,Q49#2_6,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Friends - Planned for exercise on recreational outings.",
+s_friend7,Q49#2_7,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Friends - Discussed exercise with me.",
+s_friend8,Q49#2_8,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Friends - Talked about how much they like to exercise.",
+s_friend9,Q49#2_9,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Friends - Helped plan activities around my exercise.",
+s_friend10,Q49#2_10,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Friends - Asked me for ideas on how they can get more exercise.",
+s_friend11,Q49#2_11,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Friends - Took over chores so I had more time to exercise.",
+s_friend12,Q49#2_12,"SECTION 5: SUPPORT FROM FAMILY AND FRIENDS   During the past 3 months, my family (or members of m... - Friends - Made positive comments about my physical appearance.",
+my_uni,Q50,"SECTION 6: YOUR INFORMATION
+Name of university currently enrolled",(text) 
+my_uni1,,University (campus combined),(text)
+field,Q51,What is the field of your study?,
+field2,,Categorisation of field (combined),"1 = Arts
+2 = Agriculture 
+5 = Science and Mathematics
+6 = Business and Technology
+15 = Law 
+16 = Health sciences
+22 = Others
+"
+year,Q52,What is your current year of study?,"Year 1 (1)
+Year 2 (2)
+Year 3 (3)
+Year 4 (4)
+Year 5 or more (5)"
+age,Q53,What is your age in years?,(numerical)
+gender,Q54,What is your gender?,"Male  (1) 
+Female  (2) "
+country,Q55,In which country were you born?,(text)
+height,Q56,What is your height? (cm),(numerical)
+weight,Q57,What is your weight? (kg),(numerical)
+bmi,,body mass index (weight in kg/ (height in m)^2),
+bmi_class_who,,classification of BMI (WHO guideline),"1 Underweight (<18.5)
+2 Normal (18.5 to <25)
+3 Overweight (25 to <30)
+4. Obese (≥30)"
+bmi_class_asia,,classification of BMI (Asian guideline),"1 Underweight (<18.5)
+2 Normal (18.5 to <23)
+3 Overweight (23 to ≤27.5)
+4. Obese (>27.5)"
+gpa_st,,Standardised Grade Point Average (GPA)  (5-point score),
+gpa_st_cat,,Categorisation of standardised gpa,"≤ 3.2 (1)
+3.3 to 3.9 (2)
+> 3.9 (3)"
+campus,Q59,Where do you live?,"On campus  (1) 
+Off campus  (2) "
+commute_time,Q60,"What is the average time do you usually use to
+commute to or from the university (one way only)","Less than 15 minutes  (1) 
+15-30 minutes  (2) 
+30-45 minutes  (3) 
+45-60 minutes  (4) 
+60-90 minutes  (5) 
+Greater than 90 minutes  (6) "
+commute_type,Q61,"How do you usually commute to and from the
+university? (You may select more than one means of transport) - Selected Choice","Walk  (1) 
+Ride a bicycle  (2) 
+By bicycle (someone ride it for you)  (3) 
+Ride or sit on motorbike / three-wheel motorbike  (4) 
+Sit on car  (5) 
+By bus / public van / public two-row pick up car / taxi / school bus  (6) 
+By train/sky train/metro  (7) 
+By ferry  (8) 
+Another way, please detail  (9) "
+walk,,"Walk  (1) 
+Ride a bicycle  (2) 
+By bicycle (someone ride it for you)  (3) 
+Ride or sit on motorbike / three-wheel motorbike  (4) 
+Sit on car  (5) 
+By bus / public van / public two-row pick up car / taxi / school bus  (6) 
+By train/sky train/metro  (7) 
+By ferry  (8)","Yes (1)	
+No (0)"
+ride_bicycle,,,
+by_bicycle,,,
+motorbike_three_wheel,,,
+sit_car,,,
+bus_van_pickup_taxi_schbus,,,
+train_metro,,,
+ferry,,,
+housing,Q62,"What is the main type of housing in your
+residential area?","Single house  (1) 
+Town house (houses attached to each other)  (2) 
+Flat/Apartment/Hostel/Dormitory  (3) 
+High rise condo  (4) "
+sport_club,Q63,"Did you belong to any sport clubs over the past
+6 months?","Yes  (1) 
+No  (2) "
+opinion_pa,Q64,"SECTION 7: YOUR OPINIONS ABOUT PHYSICAL ACTIVITY IN YOUR UNIVERSITY
+How can your university support you to participate in physical activity?",(text) - separate dataset for qualitative data

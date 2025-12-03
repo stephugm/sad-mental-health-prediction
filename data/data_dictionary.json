@@ -1,0 +1,392 @@
+{
+  "pin": {
+    "question_number": null,
+    "description": "Anonymous participant identity number",
+    "codes": "numerical"
+  },
+  "lang": {
+    "question_number": "UserLanguage",
+    "description": "User Language",
+    "codes": "EN-Bru = English Brunei; EN-Phil = English Philippines; EN-Sing = English Singapore; ID = Indonesian; JAP = Japanese; MAL = Malaysian; TH = Thai; VT = Vietnamese"
+  },
+  "gpaq1": {
+    "question_number": "Q7",
+    "description": "In the past week, on how many days have you done a total of 30 minutes or more of physical activity, which was enough to raise your breathing rate. This may include sport, exercise, and brisk walking or cycling for recreation or to get to and from places, but should not include housework or physical activity that may be part of your studying",
+    "codes": "0 None, 1 1 day, 2 2 days, 3 3 days, 4 4 days, 5 5 days, 6 6 days, 7 7 days"
+  },
+  "gpaq2": {
+    "question_number": "Q8",
+    "description": "In the past week, on how many days did you watch television, play electronic games, or use the computer/mobile phone/tablet (other than for homework/study) for a combined total of less than 2 hours per day",
+    "codes": "0 None, 1 1 day, 2 2 days, 3 3 days, 4 4 days, 5 5 days, 6 6 days, 7 7 days"
+  },
+  "P1": {
+    "question_number": "Q9",
+    "description": "Does your course involve vigorous-intensity activity that causes large increases in breathing or heart rate like carrying or lifting heavy loads for at least 10 minutes continuously?",
+    "codes": "Yes (1), No (2)"
+  },
+  "P2": {
+    "question_number": "Q10",
+    "description": "In a typical week, on how many days do you do vigorous-intensity activities as part of your course/study?",
+    "codes": "0 None, 1 1 day, 2 2 days, 3 3 days, 4 4 days, 5 5 days, 6 6 days, 7 7 days"
+  },
+  "P3a": {
+    "question_number": "Q11#1_1",
+    "description": "Hours of vigorous-intensity activities at university on a typical day",
+    "codes": "hours (numerical)"
+  },
+  "P3bb": {
+    "question_number": null,
+    "description": "Converted minutes from P3a",
+    "codes": "minutes (numerical)"
+  },
+  "P3b": {
+    "question_number": "Q11#2_1",
+    "description": "Minutes of vigorous-intensity activities at university on a typical day",
+    "codes": "minutes (numerical)"
+  },
+  "P4": {
+    "question_number": "Q12",
+    "description": "Does your course involve moderate-intensity activity that causes small increases in breathing or heart rate like brisk walking or carrying light loads for at least 10 minutes continuously?",
+    "codes": "Yes (1), No (2)"
+  },
+  "P5": {
+    "question_number": "Q13",
+    "description": "In a typical week, on how many days do you do moderate-intensity activities as part of your course/study?",
+    "codes": "0 None, 1 1 day, 2 2 days, 3 3 days, 4 4 days, 5 5 days, 6 6 days, 7 7 days"
+  },
+  "P6a": {
+    "question_number": "Q14#1_1",
+    "description": "Hours of moderate-intensity activities at university on a typical day",
+    "codes": "hours (numerical)"
+  },
+  "P6bb": {
+    "question_number": null,
+    "description": "Converted minutes from P6a",
+    "codes": "minutes (numerical)"
+  },
+  "P6b": {
+    "question_number": "Q14#2_1",
+    "description": "Minutes of moderate-intensity activities at university on a typical day",
+    "codes": "minutes (numerical)"
+  },
+  "P7": {
+    "question_number": "Q16",
+    "description": "Do you walk or use a bicycle (pedal cycle) for at least 10 minutes continuously to get to and from places?",
+    "codes": "Yes (1), No (2)"
+  },
+  "P8": {
+    "question_number": "Q17",
+    "description": "In a typical week, on how many days do you walk or bicycle for at least 10 minutes continuously to get to and from places?",
+    "codes": "0 None, 1 1 day, 2 2 days, 3 3 days, 4 4 days, 5 5 days, 6 6 days, 7 7 days"
+  },
+  "P9a": {
+    "question_number": "Q18#1_1",
+    "description": "Hours walking/bicycling for travel on a typical day",
+    "codes": "hours (numerical)"
+  },
+  "P9bb": {
+    "question_number": null,
+    "description": "Converted minutes from P9a",
+    "codes": "minutes (numerical)"
+  },
+  "P9b": {
+    "question_number": "Q18#2_1",
+    "description": "Minutes walking/bicycling for travel on a typical day",
+    "codes": "minutes (numerical)"
+  },
+  "P10": {
+    "question_number": "Q20",
+    "description": "Do you do any vigorous-intensity sports, fitness or recreational activities that causes large increases in breathing or heart rate like running or playing football for at least 10 minutes continuously?",
+    "codes": "Yes (1), No (2)"
+  },
+  "P11": {
+    "question_number": "Q89",
+    "description": "In a typical week, on how many days do you do vigorous-intensity sports, fitness or recreational activities?",
+    "codes": "0 None, 1 1 day, 2 2 days, 3 3 days, 4 4 days, 5 5 days, 6 6 days, 7 7 days"
+  },
+  "P12a": {
+    "question_number": "Q22#1_1",
+    "description": "Hours doing vigorous sports/fitness on a typical day",
+    "codes": "hours (numerical)"
+  },
+  "P12bb": {
+    "question_number": null,
+    "description": "Converted minutes from P12a",
+    "codes": "minutes (numerical)"
+  },
+  "P12b": {
+    "question_number": "Q22#2_1",
+    "description": "Minutes doing vigorous sports/fitness on a typical day",
+    "codes": "minutes (numerical)"
+  },
+  "P13": {
+    "question_number": "Q23",
+    "description": "Do you do any moderate-intensity sports, fitness or recreational (leisure) activities that causes small increases in breathing or heart rate like brisk walking, cycling or swimming for at least 10 minutes continuously?",
+    "codes": "Yes (1), No (2)"
+  },
+  "P14": {
+    "question_number": "Q24",
+    "description": "In a typical week, on how many days do you do moderate-intensity sports, fitness or recreational activities?",
+    "codes": "0 None, 1 1 day, 2 2 days, 3 3 days, 4 4 days, 5 5 days, 6 6 days, 7 7 days"
+  },
+  "P15a": {
+    "question_number": "Q25#1_1",
+    "description": "Hours doing moderate-intensity sports/fitness on a typical day",
+    "codes": "hours (numerical)"
+  },
+  "P15bb": {
+    "question_number": null,
+    "description": "Converted minutes from P15a",
+    "codes": "minutes (numerical)"
+  },
+  "P15b": {
+    "question_number": "Q25#2_1",
+    "description": "Minutes doing moderate-intensity sports/fitness on a typical day",
+    "codes": "minutes (numerical)"
+  },
+  "run_jog": {
+    "question_number": "Q26#1_1",
+    "description": "Did you do run/jogging over past 7 days",
+    "codes": "Yes (1), No (0)"
+  },
+  "cycle": {
+    "question_number": "Q26#1_2",
+    "description": "Did you do cycling over past 7 days",
+    "codes": "Yes (1), No (0)"
+  },
+  "aerodance": {
+    "question_number": "Q26#1_3",
+    "description": "Did you do aerobic/dancing over past 7 days",
+    "codes": "Yes (1), No (0)"
+  },
+  "ballgame": {
+    "question_number": "Q26#1_4",
+    "description": "Did you do ball sports over past 7 days",
+    "codes": "Yes (1), No (0)"
+  },
+  "racquet": {
+    "question_number": "Q26#1_5",
+    "description": "Did you do racquet sports over past 7 days",
+    "codes": "Yes (1), No (0)"
+  },
+  "athletics": {
+    "question_number": "Q26#1_6",
+    "description": "Did you do athletics over past 7 days",
+    "codes": "Yes (1), No (0)"
+  },
+  "watersport": {
+    "question_number": "Q26#1_7",
+    "description": "Did you do water sports over past 7 days",
+    "codes": "Yes (1), No (0)"
+  },
+  "fightsport": {
+    "question_number": "Q26#1_8",
+    "description": "Did you do fighting sports over past 7 days",
+    "codes": "Yes (1), No (0)"
+  },
+  "sport_total": {
+    "question_number": null,
+    "description": "Total number of sport activities per week",
+    "codes": "numerical"
+  },
+  "sport_cat": {
+    "question_number": null,
+    "description": "Total number of sport activities per week by category",
+    "codes": "0 (0), 1 to 3 (1), 4 to 6 (2), More than 6 (3)"
+  },
+  "gpaq_sedent_h": {
+    "question_number": "Q27#1_1",
+    "description": "Hours usually spent sitting or reclining on a typical day",
+    "codes": "hours (numerical)"
+  },
+  "gpaq_sedent_h_cat": {
+    "question_number": null,
+    "description": "Sedentary time category",
+    "codes": "≤ 3 hours (1), 4 to 8 hours (2), > 8 hours (3)"
+  },
+  "gpaq_sedent_m": {
+    "question_number": "Q27#2_1",
+    "description": "Converted minutes from hours usually spent sitting or reclining on a typical day",
+    "codes": "minutes (numerical)"
+  },
+  "gpaq_sedent_m.1": {
+    "question_number": "Q27#2_1",
+    "description": "Duplicate entry for converted minutes from hours usually spent sitting or reclining on a typical day",
+    "codes": "minutes (numerical)"
+  },
+  "gpaq_bed_h": {
+    "question_number": "Q28#1_1",
+    "description": "Typical bedtime hour (12-hour format)",
+    "codes": "hours"
+  },
+  "gpaq_wake_h": {
+    "question_number": "Q28#1_2",
+    "description": "Typical wake-up hour (12-hour format)",
+    "codes": "hours"
+  },
+  "hrs_slept": {
+    "question_number": null,
+    "description": "Total number of hours slept",
+    "codes": "numerical"
+  },
+  "bmi": {
+    "question_number": null,
+    "description": "Body mass index (kg/m^2)",
+    "codes": "numerical"
+  },
+  "bmi_class_who": {
+    "question_number": null,
+    "description": "BMI classification (WHO guideline)",
+    "codes": "1 Underweight (<18.5), 2 Normal (18.5 to <25), 3 Overweight (25 to <30), 4 Obese (≥30)"
+  },
+  "gender": {
+    "question_number": "Q54",
+    "description": "Gender",
+    "codes": "Male (1), Female (2)"
+  },
+  "age": {
+    "question_number": "Q53",
+    "description": "Age in years",
+    "codes": "numerical"
+  },
+  "field": {
+    "question_number": "Q51",
+    "description": "Field of study",
+    "codes": "text / categories as provided"
+  },
+  "my_uni": {
+    "question_number": "Q50",
+    "description": "Name of university currently enrolled",
+    "codes": "text"
+  },
+  "panes1": {
+    "question_number": "Q29",
+    "description": "In general, would you say that the people in your university are",
+    "codes": "Very physically active (1), Somewhat physically active (2), Not very physically active (3), Not at all physically active (4), Don’t know/Not sure (5)"
+  },
+  "panes2": {
+    "question_number": "Q30",
+    "description": "Overall, how would you rate your university",
+    "codes": "Very pleasant (1), Somewhat pleasant (2), Not very pleasant (3), Not at all pleasant (4), Don’t know/Not sure (5)"
+  },
+  "panes3": {
+    "question_number": "Q31",
+    "description": "For walking at night, would you describe the street lighting in your university as",
+    "codes": "Very good (1), Good (2), Fair (3), Poor (4), Very poor (5), Don’t know/Not sure (6)"
+  },
+  "panes4": {
+    "question_number": "Q32",
+    "description": "How safe from crime do you consider your university to be? Would you say",
+    "codes": "Extremely safe (1), Quite safe (2), Slightly safe (3), Not at all safe (4), Don’t know/Not sure (5)"
+  },
+  "panes5": {
+    "question_number": "Q33",
+    "description": "Generally speaking, would you say most people in your university can be trusted?",
+    "codes": "Yes (1), No (2), Don’t know/Not sure (3)"
+  },
+  "panes6": {
+    "question_number": "Q34",
+    "description": "Does your university have any sidewalks and/or bike lanes?",
+    "codes": "Yes (1), No (2), Don’t know/Not sure (3)"
+  },
+  "panes7": {
+    "question_number": "Q35",
+    "description": "Does your university have any bike racks or sheltered bike parking?",
+    "codes": "Yes (1), No (2), Don’t know/Not sure (3)"
+  },
+  "panes8": {
+    "question_number": "Q36",
+    "description": "Do you use any private or membership-only recreation facilities in your university for physical activity?",
+    "codes": "Yes (1), No (2), My university does not have these facilities (3), Don’t know/Not sure (4)"
+  },
+  "panes9": {
+    "question_number": "Q37",
+    "description": "Do you use walking trails, parks, playgrounds, sport fields in your university for physical activity?",
+    "codes": "Yes (1), No (2), My university does not have these facilities (3), Don’t know/Not sure (4)"
+  },
+  "panes10": {
+    "question_number": "Q38",
+    "description": "Do you use minimarts in your university for physical activity and/or walking programs?",
+    "codes": "Yes (1), No (2), My university does not have any minimarts (3), Don’t know/Not sure (4)"
+  },
+  "P15a_min": {
+    "question_number": "Q25#1_1",
+    "description": "Converted minutes from hours doing moderate-intensity sports/fitness on a typical day",
+    "codes": "minutes (numerical)"
+  },
+  "mvpa_total_min": {
+    "question_number": null,
+    "description": "Total minutes of moderate to vigorous physical activity",
+    "codes": "minutes (numerical)"
+  },
+  "P12a_min": {
+    "question_number": "Q22#1_1",
+    "description": "Converted minutes from hours doing vigorous sports/fitness on a typical day",
+    "codes": "minutes (numerical)"
+  },
+  "P9a_min": {
+    "question_number": "Q18#1_1",
+    "description": "Converted minutes from hours walking/bicycling for travel on a typical day",
+    "codes": "minutes (numerical)"
+  },
+  "P3a_min": {
+    "question_number": "Q11#1_1",
+    "description": "Converted minutes from hours of vigorous-intensity activities at university on a typical day",
+    "codes": "minutes (numerical)"
+  },
+  "ballgame_wkdy": {
+    "question_number": "Q93#1_4",
+    "description": "For each activity complete the days and time when you participated. - How many times on Monday - Friday - Ball sports e.g. soccer, basketball, and rattan ball",
+    "codes": "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13"
+  },
+  "fightsport_wkend": {
+    "question_number": "Q93#3_8",
+    "description": "For each activity complete the days and time when you participated. - How many times on Saturday-Sunday - Fighting sports e.g. taekwondo, fencing, boxing",
+    "codes": "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13"
+  },
+  "aerodance_wkend": {
+    "question_number": "Q93#3_3",
+    "description": "For each activity complete the days and time when you participated. - How many times on Saturday-Sunday - Aerobic incl. dancing",
+    "codes": "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13"
+  },
+  "cycle_wkend": {
+    "question_number": "Q93#3_2",
+    "description": "For each activity complete the days and time when you participated. - How many times on Saturday-Sunday - Cycling",
+    "codes": "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13"
+  },
+  "run_jog_wkend_t": {
+    "question_number": "Q93#4_1",
+    "description": "For each activity complete the days and time when you participated. - How long did you do it in total? - Run/jogging",
+    "codes": "<30 (1), 30 to 60 (3), 60 to 90 (5), >90 (7)"
+  },
+  "cycle_wkdy_t": {
+    "question_number": "Q93#2_2",
+    "description": "For each activity complete the days and time when you participated. - How long did you do it in total? - Cycling",
+    "codes": "<30 (1), 30 to 60 (3), 60 to 90 (5), >90 (7)"
+  },
+  "aerodance_wkdy_t": {
+    "question_number": "Q93#2_3",
+    "description": "For each activity complete the days and time when you participated. - How long did you do it in total? - Aerobic incl. dancing",
+    "codes": "<30 (1), 30 to 60 (3), 60 to 90 (5), >90 (7)"
+  },
+  "athletics_wkdy": {
+    "question_number": "Q93#1_6",
+    "description": "For each activity complete the days and time when you participated. - How many times on Monday - Friday - Athletics e.g. racing, broad jump, and discus throwing",
+    "codes": "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13"
+  },
+  "watersport_wkend": {
+    "question_number": "Q93#3_7",
+    "description": "For each activity complete the days and time when you participated. - How many times on Saturday-Sunday - Water sports (in pool or natural resources) e.g. swimming, water polo and sailing",
+    "codes": "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13"
+  },
+  "racquet_wkdy_t": {
+    "question_number": "Q93#2_5",
+    "description": "For each activity complete the days and time when you participated. - How long did you do it in total? - Racquet sports e.g. tennis, baseball, table tennis, golf, softball and hockey",
+    "codes": "<30 (1), 30 to 60 (3), 60 to 90 (5), >90 (7)"
+  },
+  "run_jog_wkend": {
+    "question_number": "Q93#3_1",
+    "description": "For each activity complete the days and time when you participated. - How many times on Saturday-Sunday - Run/jogging",
+    "codes": "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13"
+  }
+}
